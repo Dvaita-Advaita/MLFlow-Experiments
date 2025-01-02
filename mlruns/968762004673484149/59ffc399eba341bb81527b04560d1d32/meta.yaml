@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/968762004673484149/59ffc399eba341bb81527b04560d1d32/artifacts
+end_time: 1735813293790
+entry_point_name: ''
+experiment_id: '968762004673484149'
+lifecycle_stage: active
+run_id: 59ffc399eba341bb81527b04560d1d32
+run_name: puzzled-shoat-998
+run_uuid: 59ffc399eba341bb81527b04560d1d32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735813284380
+status: 3
+tags: []
+user_id: ankit
