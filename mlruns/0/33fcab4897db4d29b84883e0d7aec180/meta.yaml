@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33fcab4897db4d29b84883e0d7aec180/artifacts
+end_time: 1735795271529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33fcab4897db4d29b84883e0d7aec180
+run_name: debonair-vole-632
+run_uuid: 33fcab4897db4d29b84883e0d7aec180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735795271062
+status: 3
+tags: []
+user_id: ankit

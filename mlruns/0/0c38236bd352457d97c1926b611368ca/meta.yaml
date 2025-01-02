@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0c38236bd352457d97c1926b611368ca/artifacts
+end_time: 1735646273383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c38236bd352457d97c1926b611368ca
+run_name: funny-wren-593
+run_uuid: 0c38236bd352457d97c1926b611368ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735646273364
+status: 3
+tags: []
+user_id: ankit

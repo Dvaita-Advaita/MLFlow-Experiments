@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/399526606183903586/038472d9f6974b5a9e708d9c6359f535/artifacts
+end_time: 1735808790622
+entry_point_name: ''
+experiment_id: '399526606183903586'
+lifecycle_stage: active
+run_id: 038472d9f6974b5a9e708d9c6359f535
+run_name: caring-donkey-33
+run_uuid: 038472d9f6974b5a9e708d9c6359f535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735808787942
+status: 3
+tags: []
+user_id: ankit
